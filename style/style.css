@@ -1,0 +1,17 @@
+
+.round{
+	font-size: 30px;
+	width: 200px;
+	height:200px;
+	border-radius: 50%;
+	color: black;
+	background-color:rgb(50, 168, 164);
+  padding: 70px 0;
+}
+a :hover{
+  text-decoration: none;
+  background-color:cyan;
+}
+a{
+text-decoration: none;
+}
